@@ -1,0 +1,12 @@
+img {
+
+height: 300px ; width: 65%;  display: block; margin-left: auto;
+margin-right: auto;
+
+}
+.nobull 
+{ background-color: orangered;
+   list-style-type: none;
+padding: 3px;
+
+}
