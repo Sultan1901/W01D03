@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  background-color: chocolate;
+}
+h2 {
+    text-align: center;
+  background-color: chocolate;
+}
+.ss {
+  background-color: crimson;
+}
+p {
+  color: maroon;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.img{
+    margin: auto;
+    width: 300px;
+height: 300px;
+}
