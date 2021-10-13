@@ -10,3 +10,16 @@ margin-right: auto;
 padding: 3px;
 
 }
+li {
+   display: inline;
+   margin-left: 20px ;
+}
+.section
+{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+}
+.part
+{
+   border: 1px solid black;
+}
